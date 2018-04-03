@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.7" type="com.microsoft.azure.hdinsight.spark">
+    <CLASSES>
+      <root url="jar://E:/spark-2.2.1-bin-hadoop2.7/jars/antlr-2.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

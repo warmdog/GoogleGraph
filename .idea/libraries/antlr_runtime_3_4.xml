@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="antlr-runtime-3.4" type="com.microsoft.azure.hdinsight.spark">
+    <CLASSES>
+      <root url="jar://E:/spark-2.2.1-bin-hadoop2.7/jars/antlr-runtime-3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
